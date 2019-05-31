@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Who am I
+=======
+La verda e que sho estoy muy contento!!
+>>>>>>> 2f0e968ff6e26e9858d1dca28367fa3d135e7acc
 
 * Where are you from?
 * What do you do?
